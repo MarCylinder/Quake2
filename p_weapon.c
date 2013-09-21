@@ -739,6 +739,7 @@ ROCKET
 
 void Weapon_RocketLauncher_Fire (edict_t *ent)
 {
+	//test
 	vec3_t	offset, start;
 	vec3_t	forward, right;
 	int		damage;
